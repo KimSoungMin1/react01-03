@@ -1,0 +1,23 @@
+.add {
+  width: 600px;
+  text-align: right;
+  margin: 10px 0;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
+.img_box {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 200px;
+  margin: 0 15px;
+  border: 1px solid;
+  background-color: gray;
+}
+.img_box span {
+  margin-top: 10px;
+}
